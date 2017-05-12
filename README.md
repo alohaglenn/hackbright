@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Instructions:
 ```
-git clone https://github.com/alohaglenn/hackbright workshop
-cd workshop
+git clone https://github.com/alohaglenn/hackbright.git react-workshop
+cd react-workshop
 npm install
 npm start
 localhost:3000
